@@ -1,8 +1,24 @@
-# React + Vite
+# Dashboard with Floating Chatbox
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React-based Dashboard that displays revenue data with charts and includes a floating chatbox. The design follows Material UI standards and includes responsive, interactive elements like the chart, revenue card, and a chat interface that can be opened and closed.
 
-Currently, two official plugins are available:
+# Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the repository:
+```
+git clone https://github.com/iChris17/chart-chat
+```
+Navigate to the project directory:
+```
+cd chart-chat
+```
+Install dependencies:
+```
+npm install
+```
+Start the development server:
+```
+npm run dev
+```
+
+The app will run at http://localhost:5173/
